@@ -1,0 +1,21 @@
+{
+    "name": "reoring/image-bundle",
+    "description": "image resize bundle",
+    "keywords": [],
+    "homepage": "https://github.com/reoring/ImageBundle",
+    "license": "MIT",
+    "require": {
+        "php": ">=5.3.2"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "3.7.*",
+        "mockery/mockery": ">=0.7.2",
+        "suin/php-expose": ">=1.0",
+        "squizlabs/php_codesniffer": "1.*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Reoring\\ImageBundle": ""
+        }
+    }
+}
