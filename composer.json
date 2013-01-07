@@ -1,7 +1,8 @@
 {
     "name": "reoring/image-bundle",
+    "type": "library",
     "description": "image resize bundle",
-    "keywords": [],
+    "keywords": ["image", "resize"],
     "homepage": "https://github.com/reoring/ImageBundle",
     "license": "MIT",
     "require": {
