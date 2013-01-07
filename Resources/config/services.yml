@@ -1,0 +1,7 @@
+parameters:
+#    reoring_image.example.class: Reoring\ImageBundle\Example
+
+services:
+#    reoring_image.example:
+#        class: %reoring_image.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]
